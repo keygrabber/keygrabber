@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**keygrabber/keygrabber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Rakuzan
+### ...and that's it.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=keygrabber&color=blue&style=flat-square&label=Profile+views" alt="Rakuzan views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,js,html,tailwind,css,postman,mysql,php,laravel" />
+  </a>
+</p>
+
+---
