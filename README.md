@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-# Hello, I'm Rakuzan
-### ...and that's it.
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=keygrabber&color=blue&style=flat-square&label=Profile+views" alt="Rakuzan views" />
 </p>
